@@ -1,0 +1,13 @@
+Brooklyn Rolling Sales
+Evangelos Giakoumakis
+
+June 7, 2017
+
+Brooklyn Rolling Sales Analysis
+This is an analysis on the Rolling Sales data for Brooklyn NYC from September 2015 - August 2016. 
+Neighborhood Names and Descriptive Data as of 5/26/2016 
+Building Class Category is based on Building Class at Time of Sale.
+
+What we can realize after analyzing and cleaning this dataset is that the majority of homes sold in Brooklyn NYC between September 2015 - August 2016 had the following: 
+cost of: 540,000 - 620,000 (US dollars)
+size of: 3,100-3,500 (square feet)  
